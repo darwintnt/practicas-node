@@ -1,0 +1,5 @@
+/node_modules
+/src/utils/node_modules
+/src/tools/scrapping/node_modules
+/src/tools/automatization/node_modules
+/src/electron/node_modules
